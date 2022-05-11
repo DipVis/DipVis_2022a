@@ -6,7 +6,7 @@ Repositorio para el diplomado en Visualización de Datos de la Escuela de Diseñ
 
 ## EQUIPO 
 
-* Daniela Moyano, Cordinación, Co-dirección Académica:   
+* Daniela Moyano, Cordinación, Co-dirección Académica: dpmoyano@uc.cl  
 * Lilian Bastias, Administrción y coordinación general: lbastias@uc.cl. 
 * Ricardo Vega, Dirección: rivegam@uc.cl. 
 
