@@ -61,7 +61,7 @@
 
 **11– Miércoles 8/06/22**
 
-* Exploración y Análisis de datos 2  (Python).
+* Exploración y Análisis de datos 2 (Python).
 
 **12– Sábado 11/06/22**
 
@@ -72,7 +72,7 @@
 **13– Lunes 13/06/22**
 
 * Introducción a Librerías JavaScript: D3, Echarts 1.
-* Corrección encargo Narrativa web. "
+* Corrección encargo Narrativa web. 
 
 **14– Miércoles**
 
@@ -94,12 +94,12 @@
 **17– Miércoles 29/06/22**
 
 * Infografía y Periodismo de Datos 1.
-* Introducción encargo 3: Problema, Definición y Boceto. "
+* Introducción encargo 3: Problema, Definición y Boceto. 
 
 **18– Lunes 4/07/22**
 
 * Infografía y Periodismo de Datos 2. 
-* Desafío de visualización. "
+* Desafío de visualización. 
 
 **19– Miércoles 6/07/22**
 
