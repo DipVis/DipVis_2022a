@@ -44,7 +44,10 @@ Diseñador gráfico IPEVE-UDP y diseñador de fuentes autodidacta. Con la fuente
 
 ### Gerardo Mora. UC.
 
-Antropólogo, profesor en la Escuela de Diseño UC, es experto en temas de usuario. 
+Gerardo Mora Rivera es etnógrafo, profesor y papá.
+Ha participado en investigaciones en el Norte Grande de Chile, en el departamento de Oruro (Bolivia), en el Lavken Mapu, en la isla Mocha, así como en espacios públicos de la ciudad de Santiago y dentro de ambientes universitarios. En ellas ha abordado temas como devociones, sonoridades, afectos, movilidad, convivencia, personas no humanas, etc. En sus cursos privilegia la etnografía como estrategia de (auto)conocimiento.
+
+[Academia.edu](https://uc-cl.academia.edu/GerardoMoraRivera) 
 
 - - -  
 
