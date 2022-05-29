@@ -6,7 +6,7 @@ Las mayoría de las lecturas se encuentran como links y también se encontrarán
 ## Modulo 1: Introducción a la Visualización desde el Diseño.
 
 
-**1– Lunes 9/05/22**
+**1– Lunes 09/05/22**
 
 * OBLIGATORIO: [El Arte funcional. Cap 1: Por qué visualizar: de la información a la sabiduría.] (http://www.elartefuncional.com/images/libroMUESTRA.pdf)    
 * COMPLEMENTARIO:  [Models of models. Doug Dubberly.] (http://www.dubberly.com/articles/models-of-models.html)
@@ -40,19 +40,35 @@ Las mayoría de las lecturas se encuentran como links y también se encontrarán
 
 **6– Miércoles 25/05/22**
 
-* OBLIGATORIO: [] ()  
-* COMPLEMENTARIO:  [] ()
+* OBLIGATORIO: [La transmisión visual de la información como estímulo cognitivo de los procesos creativos] (http://www.um.es/analesps/v26/v26_2/05-26_2.pdf)
+* COMPLEMENTARIO: [Ethnography, Fieldguide Helsinski Design Lab] (http://www.helsinkidesignlab.org/files/731/Field%20Guide%20English.pdf)
 * OTROS: [] ()
 
 **7– Sábado 28/05/22**
 
-* OBLIGATORIO: [] ()  
-* COMPLEMENTARIO:  [] ()
-* OTROS: [] ()
+* OBLIGATORIO: [Percepción Visual. caps 3 y 4. UOC.] (https://www.exabyteinformatica.com/uoc/Disseny_grafic/Diseno_grafico/Diseno_grafico_(Modulo_1).pdf)  
+* COMPLEMENTARIO: [Form Follows Data The Symbiosis between Design & Information Visualization] (http://infoscape.org/publications/caadfutures05.pdf)
+* OTROS: [Movie Perception Test] (https://www.youtube.com/watch?v=6JONMYxaZ_s&list=PLZF2V4RaXKrTk1v52t0t7dut-FxucE05i) 
 
 **8– Lunes 30/05/22**
 
-* OBLIGATORIO: [] ()  
-* COMPLEMENTARIO:  [] ()
-* OTROS: [] ()
+* OBLIGATORIO: [Informe visualización de datos. cap 1.] (https://datos.gob.es/sites/default/files/doc/file/informe_herramientas_visualizacion.pdf)  
+* COMPLEMENTARIO: [Critical data studies: An introduction.] (https://journals.sagepub.com/doi/full/10.1177/2053951716674238)
+* OTROS: [Libro Visualising for advocacy.] (https://visualisingadvocacy.org/get.html)
 
+
+
+## Modulo 2: Modulo 2: Herramientas para la Visualización.
+
+**9– Miércoles 01/06/22**
+
+* OBLIGATORIO: [Visualización (...): propuestas desde el periodismo y la narratividad.] (http://diposit.ub.edu/dspace/bitstream/2445/56322/1/642719.pdf)  
+* COMPLEMENTARIO: [Narrative Visualization: Telling Stories with Data. E.Segel, J.Heer.] (https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/3/3481/files/2015/02/Narrative_Visualization.pdf)
+* COMPLEMENTARIO: [Giorgia Lupi: Sketching With Data Opens The Mind’s Eye.] (http://www.newinc.org/news-posts/2017/4/10/sketching-with-data-opens-the-minds-eye)
+* OTROS: [The Age of Insight: Telling Stories with Data.] (https://www.youtube.com/watch?v=TA_tNh0LMEs)
+
+**10– Lunes 06/06/22**
+
+* OBLIGATORIO: [Por qué elegir el análisis visual. Tableau.] (https://www.tableau.com/sites/default/files/whitepapers/752750_core_why_visual_analytics_whitepaper_es-es.pdf)  
+* COMPLEMENTARIO: [] ()
+* OTROS: [] ()
