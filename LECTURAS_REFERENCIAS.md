@@ -72,3 +72,5 @@ Las mayoría de las lecturas se encuentran como links y también se encontrarán
 * OBLIGATORIO: [Por qué elegir el análisis visual. Tableau.] (https://www.tableau.com/sites/default/files/whitepapers/752750_core_why_visual_analytics_whitepaper_es-es.pdf)  
 * COMPLEMENTARIO: [] ()
 * OTROS: [] ()
+
+Ya vienen otras referencias. 
