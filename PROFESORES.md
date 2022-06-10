@@ -80,7 +80,7 @@ Diseñadora de la Pontificia Universidad Católica de Chile. Desde el 2008 se de
 
 ### Fernando Becerra.
 
-Astrónomo y experto en visualización web. Ha coldesarrollado proyectos en Chile y el extrajero.
+Científico y visualizador de datos, experto en Python y d3.js. Doctor en Astronomía y Astrofísica de la Universidad de Harvard, Estados Unidos. Trabajó en Fathom Information Design y desde 2020 se dedica al análisis y visualización de datos de forma independiente, abarcando temas de ciencia y políticas públicas. Entre sus clientes se encuentran instituciones como ProPublica, USA Facts, Urban Institute, y Planet Labs.
 
 [fernandobecerra.com](https://www.fernandobecerra.com/) 
 
